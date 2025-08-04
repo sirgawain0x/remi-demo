@@ -1,10 +1,11 @@
-Remi: Real Estate Management Intelligence
-Project Overview
+#Remi: Real Estate Management Intelligence
+
+##Project Overview
 Remi (Real Estate Management Intelligence) is an innovative AI-powered agent designed to transform the landscape of property management. This project demonstrates how intelligent automation can streamline daily operations, enhance tenant satisfaction, and provide property owners with valuable insights for strategic decision-making.
 
 Remi is built on the ElizaOS framework, showcasing a robust foundation for AI agent development. For this demonstration, the entire project is hosted via Fleek, ensuring efficient and decentralized deployment.
 
-The Problem Remi Solves
+##The Problem Remi Solves
 Traditional property management is often plagued by inefficiencies:
 
 Time-Consuming Manual Tasks: Property owners spend countless hours on repetitive administrative duties, such as answering common tenant questions and manually tracking maintenance requests.
@@ -15,7 +16,7 @@ Lack of Actionable Insights: Without proper data analysis, property owners strug
 
 Remi addresses these challenges by centralizing communications, automating routine tasks, and providing intelligent tools, freeing up valuable time for property owners and improving the tenant experience.
 
-Key Features
+##Key Features
 Automated Communications: Remi provides 24/7 instant responses to routine tenant inquiries, offering around-the-clock support.
 
 Efficient Maintenance Management: Tenants can easily submit and track maintenance requests through a streamlined interface, ensuring issues are addressed promptly.
@@ -28,20 +29,20 @@ AI-Powered "Draft Maintenance Email" Tool: A dedicated utility that uses the Gem
 
 Integrated Chat Widget: A persistent chatbox, powered by a Fleek-hosted agent, provides immediate conversational support for tenants directly on the website.
 
-Technology Stack
-Frontend:
+##Technology Stack
+###Frontend:
 
 HTML: Standard markup for website structure.
 
 Tailwind CSS: A utility-first CSS framework for rapid and responsive UI development.
 
-AI & Backend Integration:
+###AI & Backend Integration:
 
 Gemini API: Used for advanced language model capabilities, specifically for the "Draft Maintenance Email" tool.
 
 ElizaOS Framework: The underlying framework used to build and manage Remi's AI agent capabilities.
 
-Decentralized Hosting & Services:
+###Decentralized Hosting & Services:
 
 Fleek: Provides decentralized hosting for the website and the integrated chat agent.
 
@@ -49,7 +50,7 @@ Unlock Protocol: Leveraged for creating and managing property-specific NFTs, ens
 
 JavaScript: Powers all interactive elements, API calls, and UI logic.
 
-Getting Started (Demonstration)
+##Getting Started (Demonstration)
 This repository contains the static website files for the Remi demonstration. The website is designed to be hosted on platforms like Fleek, where the integrated chat widget (powered by an ElizaOS agent) will automatically function.
 
 To view the website locally:
@@ -60,7 +61,7 @@ Open the index.html file in your web browser.
 
 Note that the Fleek chatbox widget and Gemini API features require an active internet connection to function correctly.
 
-Future Enhancements
+##Future Enhancements
 Future iterations could include:
 
 Integration with property management systems for seamless data synchronization.
